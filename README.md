@@ -19,7 +19,7 @@ version : mecab-0.996
     make
     make install
     ```
-  - **python**
+  - **python**
     ```
     pip install mecab-python
     ```
@@ -30,7 +30,7 @@ version : mecab-0.996
   mecab = MeCab.Tagger('-Ochasen')
   print mecab.parse('祇園精舎の鐘の声諸行無常の響あり')  #utf-8
   ```
-  - **output**
+  - **output**
     ```
       祇園	ギオン	祇園	名詞-固有名詞-地域-一般		
       精舎	ショウジャ	精舎	名詞-一般		
