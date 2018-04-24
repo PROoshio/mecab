@@ -22,7 +22,7 @@ version : mecab-0.996
   - **python**
     ```
     pip install mecab-python
-    ```
+    ```
 - **test**
   ```
   # -*- coding: utf-8 -*-
